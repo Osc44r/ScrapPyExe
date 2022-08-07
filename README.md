@@ -8,3 +8,6 @@ that owner is NOT responsible for any type of bans. Use with care, good luck mak
 This is just a beta version. All bugs should be reported!
 
 Install with a setup. git files does not have adblock folder which is required to run.
+
+How it works:
+https://www.youtube.com/watch?v=de2d4LdZ_UQ
