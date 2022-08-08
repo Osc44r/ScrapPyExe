@@ -11,4 +11,4 @@ Install with a setup. git files does not have adblock folder which is required t
 ScrapPy should be runned as administrator.
 
 Installation + how it works:
-https://www.youtube.com/watch?v=QDnKppPlNl0
+https://www.youtube.com/watch?v=RccwemE1bmw
