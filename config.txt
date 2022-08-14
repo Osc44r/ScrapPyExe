@@ -22,11 +22,11 @@ safeModeWait = {
 				
 # Proxy settings. Proxy = (true/false)
 
-proxy = 'true'
+proxy = 'false'
 
-proxyIp = '91.232.56.71'
-proxyPort = '12323'
+proxyIp = ''
+proxyPort = ''
 
 # Optional. Only for proxies with auth.
-proxyLogin = '14a2fec06c394'
-proxyPassword = 'f041a6ce13'
+proxyLogin = ''
+proxyPassword = ''
